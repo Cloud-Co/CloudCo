@@ -1,0 +1,57 @@
+[
+  - {
+    - CloudPlatforms: [
+    - {
+				name: "Google Cloud Platform",
+				imageUrl: "https://im.ge/i/uuS6O1",
+        totalLesson: "7",
+        videoUrl: ""
+        },
+    - {
+				name: "Amazon Web Services",
+				imageUrl: "https://im.ge/i/uuS6O1",
+        totalLesson: "7",
+        videoUrl: ""
+        },
+    - {
+				name: "Microsoft Azure",
+				imageUrl: "https://im.ge/i/uuS6O1",
+        totalLesson: "7",
+        videoUrl: ""
+        }
+  ],
+- Certifications: [
+    - {
+				name: "Google Cloud Platform Certifications",
+				imageUrl: "https://im.ge/i/uuS6O1",
+        totalLesson: "7",
+        videoUrl: ""
+        },
+    - {
+				name: "Amazon Web Services Certifications",
+				imageUrl: "https://im.ge/i/uuS6O1",
+        totalLesson: "7",
+        videoUrl: ""
+        },
+    - {
+				name: "Microsoft Azure Certifications",
+				imageUrl: "https://im.ge/i/uuS6O1",
+        totalLesson: "7",
+        videoUrl: ""
+        },
+    - {
+				name: "DevOps Certifications",
+				imageUrl: "https://im.ge/i/uuS6O1",
+        totalLesson: "7",
+        videoUrl: ""
+        },
+    - {
+				name: "Security Certifications",
+				imageUrl: "https://im.ge/i/uuS6O1",
+        totalLesson: "7",
+        videoUrl: ""
+        }
+  ]
+}
+]
+  
