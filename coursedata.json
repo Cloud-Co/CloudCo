@@ -3,19 +3,19 @@
     - CloudPlatforms: [
     - {
 				name: "Google Cloud Platform",
-				imageUrl: "https://im.ge/i/uuS6O1",
+				imageUrl: "https://github.com/Cloud-Co/CloudCo/blob/main/images/GoogleGCP.png",
         totalLesson: "7",
         videoUrl: ""
         },
     - {
 				name: "Amazon Web Services",
-				imageUrl: "https://im.ge/i/uuS6O1",
+				imageUrl: "https://github.com/Cloud-Co/CloudCo/blob/main/images/AmazonAWS.png",
         totalLesson: "7",
         videoUrl: ""
         },
     - {
 				name: "Microsoft Azure",
-				imageUrl: "https://im.ge/i/uuS6O1",
+				imageUrl: "https://github.com/Cloud-Co/CloudCo/blob/main/images/MicrosoftAZURE.png",
         totalLesson: "7",
         videoUrl: ""
         }
